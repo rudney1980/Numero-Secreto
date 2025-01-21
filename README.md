@@ -1,0 +1,2 @@
+<h1>Jogo do número secreto, onde o jogodador deve informar uma valor e comparar com o valor do numero secreto escolhido pela máquina de forma aleatoria</h1>
+<p>ao clicar no botão chutar, o jogador informa a máquina qual foi o seu número escolhido, e a máquina comparar com o valor do número secreto, e retornando ao usuário se ele acertou ou não, informando qual o número de tentativas realizadas até o moment opelo usuário</p>
